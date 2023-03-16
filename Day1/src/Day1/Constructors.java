@@ -6,7 +6,7 @@ public class Constructors {
 	{
 		this(1,2,3);
 		System.out.println("default Constructors");
-		System.out.println("default test Constructors");
+		
 	}
 	public Constructors(int a)
 	{
