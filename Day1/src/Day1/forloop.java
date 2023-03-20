@@ -5,6 +5,7 @@ public class forloop {
 	{
 		int i,j;
 		for (i = 5; i >= 1; i--) {
+			//test
 			//System.out.println(i);
 		      for (j = 1; j <= i; j++) {
 		        System.out.print("* ");
