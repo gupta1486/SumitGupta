@@ -12,6 +12,16 @@ public class forloop {
 		      }
 		      System.out.println();
 		    }
+		
+		for (i = 1; i <= 5; i++) {
+			//test
+			//System.out.println(i);
+		      for (j = 1; j <= i; j++) {
+		        System.out.print("* ");
+		      }
+		      System.out.println();
+		    }
+		
 	}
 
 }
